@@ -1,0 +1,4 @@
+LIVRO|1984|Romance distópico sobre um regime totalitário|15/01/2024|George Orwell|328
+LIVRO|O Senhor dos Anéis|Épico de fantasia sobre a Terra Média|10/02/2024|J.R.R. Tolkien|1178
+FILME|Matrix|Ficção científica sobre realidade virtual|12/04/2024|Lana e Lilly Wachowski|136
+FILME|Inception|Thriller sobre invasão de sonhos|08/05/2024|Christopher Nolan|148
